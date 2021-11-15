@@ -264,3 +264,5 @@ def myuranai(input_text):
 
 def start():
   run_chat(chat=myuranai)    
+  
+#編集
